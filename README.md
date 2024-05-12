@@ -1,7 +1,7 @@
 # Mitchell Kolb
 
 **Contact Information**  
-Email: [mitchell.kolb@wsu.edu](mailto:mitchellkolb.work@gmail.com)  
+Email: [mitchellkolb.work@gmail.com](mailto:mitchellkolb.work@gmail.com)  
 Website: [mitchellkolb.github.io](https://mitchellkolb.github.io/)  
 GitHub: [github.com/mitchellkolb](https://github.com/mitchellkolb)
 
