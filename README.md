@@ -1,9 +1,9 @@
 # Mitchell Kolb
 
 **Contact Information**  
-Email: [mitchell.kolb@wsu.edu](mailto:mitchell.kolb@wsu.edu)  
-Website: [Mitchell-kolb.github.io](https://mitchell-kolb.github.io/)  
-GitHub: [github.com/Mitchell-kolb](https://github.com/Mitchell-kolb)
+Email: [mitchell.kolb@wsu.edu](mailto:mitchellkolb.work@gmail.com)  
+Website: [mitchellkolb.github.io](https://mitchellkolb.github.io/)  
+GitHub: [github.com/mitchellkolb](https://github.com/mitchellkolb)
 
 ## Education
 
@@ -30,7 +30,7 @@ May 2020-Aug 2020
 ## Projects
 
 **GSUR Data Automation Tool**  
-Repo: [GSUR Data Automation Tool](https://github.com/Mitchell-kolb/GSUR)  
+Repo: [GSUR Data Automation Tool](https://github.com/mitchellkolb/GSUR)  
 - Fully local application tool streamlining the process of downloading and analyzing data from the EMMA training website, enhancing productivity for researchers at WSU Neuropsychology and Aging Laboratory.
 - Built with Python, using CustomTkinter and Selenium.
 - Used to assist Diane Cook in defending her dissertation for her doctorate at Washington State University.
@@ -42,13 +42,13 @@ Repo: [Living Atlas](https://github.com/WSUCapstoneS2023/LivingAtlas1)
 - Built with JavaScript/Python using React, FastAPI, PostgreSQL.
 
 **Airline Search Engine**  
-Repo: [Airline Search Engine](https://github.com/Mitchell-kolb/Airline-search-engine)  
+Repo: [Airline Search Engine](https://github.com/mitchellkolb/Airline-search-engine)  
 - Graph-based airline search engine utilizing Neo4j and PySpark, enabling complex route optimization and trip planning by efficiently processing and visualizing relationships across 67,000+ routes and 7,698 airports.
 - Designed and implemented a user-friendly GUI with an advanced backend that supports scalable, real-time data queries, significantly enhancing travel planning and operational decision-making for users.
 - Built with Python using PySimpleGUI, Hadoop, Spark, and Neo4j.
 
 **Linux EXT2 Filesystem**  
-Repo: [Linux EXT2 Filesystem](https://github.com/Mitchell-kolb/ext2-file-system)  
+Repo: [Linux EXT2 Filesystem](https://github.com/mitchellkolb/ext2-file-system)  
 - A Linux-compatible ext2 filesystem that can run off of existing disk images or create its own on startup.
 - Traverse or modify the filesystem with basic commands such as cd, ls, mkdir, rmdir, and pwd. Open files for read and write operations.
 - Built with C.
