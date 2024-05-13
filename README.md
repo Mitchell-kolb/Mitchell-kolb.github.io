@@ -9,7 +9,7 @@ GitHub: [github.com/mitchellkolb](https://github.com/mitchellkolb)
 
 **Bachelor of Science, Computer Science**  
 Washington State University | Pullman, WA  
-Fall 2023  
+Graduated Fall 2023  
 
 ## Professional Experience
 
