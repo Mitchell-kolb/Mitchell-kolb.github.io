@@ -62,7 +62,7 @@ Repo: [Linux EXT2 Filesystem](https://github.com/mitchellkolb/ext2-file-system)
 
 **Bakery Assistant**  
 Safeway Grocery Store | Pullman, WA  
-Oct 2020-Jan 2023  
+June 2021-Jan 2023  
 - Prepared and packaged various pastries while providing exceptional customer service.
 
 **Courtesy Clerk**  
